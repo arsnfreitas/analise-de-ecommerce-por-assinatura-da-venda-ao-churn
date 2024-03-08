@@ -1,0 +1,1 @@
+# analise-de-ecommerce-por-assinatura-da-venda-ao-churn
